@@ -6,8 +6,10 @@
 Create masterpieces at the touch of a button
 
 == Projects
-=== Softwares
-The softwares that we can code in are
+=== Programming Softwares & Languages
+.The languages that we can code in are
+[%collapsible]
+====
 
 . Scratch
 . Python
@@ -21,3 +23,6 @@ The softwares that we can code in are
 . Kotlin
 . Asciidoctor
 . Markdown
+
+====
+
