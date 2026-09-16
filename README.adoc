@@ -26,3 +26,19 @@ Create masterpieces at the touch of a button
 
 ====
 
+.The softwares we can program in are
+[%collapsible]
+====
+
+. Scratch
+. IntelliJ Idea
+. Jetbrains Pycharm
+. Jetbrains RubyMine
+. Jetbrains Webstorm
+. Visual Studio Code
+. AppleScript Editor
+. Notepad
+. Notepad ++
+. Github Online Editor
+
+====
