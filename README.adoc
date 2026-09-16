@@ -8,3 +8,16 @@ Create masterpieces at the touch of a button
 == Projects
 === Softwares
 The softwares that we can code in are
+
+.Scratch
+.Python
+.Javascript
+.HTML
+.AppleScript
+.CSS
+.Java
+.C++
+.C
+.Kotlin
+.Asciidoctor
+.Markdown
