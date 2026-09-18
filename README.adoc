@@ -7,7 +7,7 @@ Create masterpieces at the touch of a button
 
 == Projects
 === Programming Softwares & Languages
-.The languages that we can code in are
+.The languages that we can code in are:
 [%collapsible]
 ====
 
@@ -26,7 +26,7 @@ Create masterpieces at the touch of a button
 
 ====
 
-.The softwares we can program in are
+.The softwares we can program in are:
 [%collapsible]
 ====
 
@@ -42,3 +42,12 @@ Create masterpieces at the touch of a button
 . Github Online Editor
 
 ====
+
+== Build Quality
+Each build is double checked as well as debugged before commiting, except for a few commits, most of the softwares uploaded are bug free.
+Every build is tested on Windows, Mac, Linux and Raspbian Trixie and is listed with the compatible operating systems, if none are written then it is compatible with MacOS, Linux and Raspbian Trixie.
+For adding your projects to our repositories please visit our https://forms.cloud.microsoft/r/9W6uFBHFn7[Repo Feedback Page].
+
+== Thank You
+Thank you for visiting our repo, if you like this, please follow and star your favorite repo.
+Your support helps us develop software better.
